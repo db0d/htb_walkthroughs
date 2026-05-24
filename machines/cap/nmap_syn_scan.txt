@@ -1,0 +1,4 @@
+# Nmap 7.99 scan initiated Sat May 23 14:17:26 2026 as: nmap -sS -oG nmap_syn_scan.txt 10.129.4.62
+Host: 10.129.4.62 ()	Status: Up
+Host: 10.129.4.62 ()	Ports: 21/open/tcp//ftp///, 22/open/tcp//ssh///, 80/open/tcp//http///	Ignored State: closed (997)
+# Nmap done at Sat May 23 14:17:27 2026 -- 1 IP address (1 host up) scanned in 1.44 seconds
