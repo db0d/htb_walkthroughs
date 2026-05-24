@@ -137,7 +137,7 @@ sudo -l
 
 With no sudo route, inspect operational application files for risky privileged behavior:
 
-<img src="images/web_app_hosted_root_as_nathan.png" alt="Web application directory listing in var www html including app.py" width="700">
+<img src="images/web_app_hosted_root_as_nathan.png" alt="Web application directory listing in /var/www/html including app.py" width="700">
 
 The application code path indicates privileged Python execution related to packet capture.
 
